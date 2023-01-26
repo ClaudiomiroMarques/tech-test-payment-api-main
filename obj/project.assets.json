@@ -922,19 +922,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Claudiomiro\\.nuget\\packages\\": {}
+    "C:\\Users\\marqu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Claudiomiro\\Downloads\\tech-test-payment-api-main\\tech-test-payment-api\\tech-test-payment-api.csproj",
+      "projectUniqueName": "D:\\tech-test-payment-api\\tech-test-payment-api.csproj",
       "projectName": "tech-test-payment-api",
-      "projectPath": "C:\\Users\\Claudiomiro\\Downloads\\tech-test-payment-api-main\\tech-test-payment-api\\tech-test-payment-api.csproj",
-      "packagesPath": "C:\\Users\\Claudiomiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Claudiomiro\\Downloads\\tech-test-payment-api-main\\tech-test-payment-api\\obj\\",
+      "projectPath": "D:\\tech-test-payment-api\\tech-test-payment-api.csproj",
+      "packagesPath": "C:\\Users\\marqu\\.nuget\\packages\\",
+      "outputPath": "D:\\tech-test-payment-api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Claudiomiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\marqu\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -990,7 +990,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
