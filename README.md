@@ -5,6 +5,8 @@ Quando você começar, faça um commit vazio com a mensagem "Iniciando o teste d
 Commit após cada ciclo de refatoração pelo menos;
 Não use branches;
 Você deve prover evidências suficientes de que sua solução está completa indicando, no mínimo, que ela funciona;
+
+
 O TESTE
 Construir uma API REST utilizando .Net Core, Java ou NodeJs (com Typescript);
 A API deve expor uma rota com documentação swagger (http://.../api-docs).
