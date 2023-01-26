@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\tech-test-payment-api.props" />
+</Project>

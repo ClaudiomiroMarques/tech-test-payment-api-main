@@ -1,0 +1,127 @@
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\appsettings.Development.json
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\appsettings.json
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\tech-test-payment-api.exe
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\tech-test-payment-api.deps.json
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\tech-test-payment-api.runtimeconfig.json
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\tech-test-payment-api.dll
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\tech-test-payment-api.pdb
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\DataValidator.dll
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.csproj.AssemblyReference.cache
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.GeneratedMSBuildEditorConfig.editorconfig
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.AssemblyInfoInputs.cache
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.AssemblyInfo.cs
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.csproj.CoreCompileInputs.cache
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.MvcApplicationPartsAssemblyInfo.cs
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.MvcApplicationPartsAssemblyInfo.cache
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\obj\Debug\net6.0\staticwebassets.build.json
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\obj\Debug\net6.0\staticwebassets.development.json
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\obj\Debug\net6.0\scopedcss\bundle\tech-test-payment-api.styles.css
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.csproj.CopyComplete
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.dll
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\obj\Debug\net6.0\refint\tech-test-payment-api.dll
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.pdb
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.genruntimeconfig.cache
+D:\tech-test-payment-api-main (1)\tech-test-payment-api-main\obj\Debug\net6.0\ref\tech-test-payment-api.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\appsettings.json
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\tech-test-payment-api.exe
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\tech-test-payment-api.deps.json
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\tech-test-payment-api.runtimeconfig.json
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\tech-test-payment-api.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\tech-test-payment-api.pdb
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\DataValidator.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.csproj.AssemblyReference.cache
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.AssemblyInfoInputs.cache
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.AssemblyInfo.cs
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.csproj.CoreCompileInputs.cache
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\staticwebassets\msbuild.tech-test-payment-api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\staticwebassets\msbuild.build.tech-test-payment-api.props
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.tech-test-payment-api.props
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.tech-test-payment-api.props
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\scopedcss\bundle\tech-test-payment-api.styles.css
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.csproj.CopyComplete
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\refint\tech-test-payment-api.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.pdb
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\tech-test-payment-api.genruntimeconfig.cache
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api-main\obj\Debug\net6.0\ref\tech-test-payment-api.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\appsettings.json
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\tech-test-payment-api.exe
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\tech-test-payment-api.deps.json
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\tech-test-payment-api.runtimeconfig.json
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\tech-test-payment-api.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\tech-test-payment-api.pdb
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\DataValidator.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.csproj.AssemblyReference.cache
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.AssemblyInfoInputs.cache
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.AssemblyInfo.cs
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.csproj.CoreCompileInputs.cache
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\staticwebassets\msbuild.tech-test-payment-api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\staticwebassets\msbuild.build.tech-test-payment-api.props
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.tech-test-payment-api.props
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.tech-test-payment-api.props
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\scopedcss\bundle\tech-test-payment-api.styles.css
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.csproj.CopyComplete
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\refint\tech-test-payment-api.dll
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.pdb
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.genruntimeconfig.cache
+C:\Users\Claudiomiro\Downloads\tech-test-payment-api-main\tech-test-payment-api\obj\Debug\net6.0\ref\tech-test-payment-api.dll
